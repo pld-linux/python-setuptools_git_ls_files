@@ -7,7 +7,7 @@ Summary:	Use git to list all files, including submodules
 Summary(pl.UTF-8):	Użycie gita do listy wszystkich plików, wraz z podmodułami
 Name:		python-setuptools_git_ls_files
 Version:	0.1.2
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/setuptools-git-ls-files/
